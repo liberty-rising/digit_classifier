@@ -1,2 +1,2 @@
 # digit_classifier
-Image classifier that can recognize single digits (black font) on a white background. Trained on the MNIST database.
+Image classifier that can recognize single 28 x 28 bw digits. Trained on the MNIST database.
